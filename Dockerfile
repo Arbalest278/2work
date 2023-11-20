@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY main.py .
 
-RUN pyton main.py
+RUN python main.py
